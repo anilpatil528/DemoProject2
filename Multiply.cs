@@ -1,1 +1,3 @@
-public class Multiply{}
+public class Multiply{
+    int a,b;
+}
